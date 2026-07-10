@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./logo.png" width="180" alt="Bireena Medico Logo">
-</p>
 
 <h1 align="center">🏥 Bireena Medico - Hospital Management System</h1>
 
